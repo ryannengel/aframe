@@ -737,6 +737,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/placeholder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13020,
+		"inputAbbreviatedPath": "\/img\/placeholder.png",
+		"outputAbbreviatedPath": "\/img\/placeholder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/scenes\/IMG_0135.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
